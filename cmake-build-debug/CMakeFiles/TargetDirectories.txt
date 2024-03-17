@@ -1,0 +1,3 @@
+C:/Users/Mariana/CLionProjects/Testinglol/cmake-build-debug/CMakeFiles/Testinglol.dir
+C:/Users/Mariana/CLionProjects/Testinglol/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mariana/CLionProjects/Testinglol/cmake-build-debug/CMakeFiles/rebuild_cache.dir
